@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Jordan 👋
 
 IT-oriented junior engineer with a background in **Renewable Energy Engineering**.  
