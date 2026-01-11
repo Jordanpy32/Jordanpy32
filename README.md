@@ -1,14 +1,14 @@
-# 👋 Salut, je suis Jordan
+# 👋 Hi, I'm Jordan
 
-🎓 Junior IT Engineer avec un background en **Énergies Renouvelables**, en transition vers **Network Administration (CCNA)**.  
-💻 Passionné par les réseaux, l’administration système et le développement backend avec **Python** & **Django**.
+🎓 Junior IT Engineer with a background in **Renewable Energy Engineering**, currently transitioning into **Network Administration (CCNA)**.  
+💻 Passionate about networking, system administration, and backend development with **Python** & **Django**.
 
 ---
 
 ## 🎯 Focus
-- Réseaux & préparation CCNA  
-- Administration système & virtualisation  
-- Python scripting & Django
+- Networking fundamentals & CCNA preparation  
+- System administration & virtualization  
+- Python scripting & Django backend
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## 🚀 Projects
-- [Network Labs](#) – Configurations & pratiques CCNA  
-- [Django Portfolio](#) – Site perso avec Django
+- [Network Labs](#) – CCNA practice labs and configurations  
+- [Django Portfolio](#) – Personal website built with Django
 
 ---
 
@@ -37,6 +37,7 @@
 
 ---
 
-📫 **Contact** : jordanngoungou
+📫 **Contact**: jordanngoungou@gmail.com
+
 
 
